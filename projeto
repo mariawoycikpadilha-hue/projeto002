@@ -1,0 +1,29 @@
+:root {
+    --cor-primaria:#183c63;
+    --cor-secundaria:#3a638e;
+    --cor-fundo:#FFFFFF;
+    --cor-texto:#151428;
+    --cor-contraste:#f3eef7;
+    --cor-botao:#f9f9f9;
+}
+header{
+    background-color: #183c63;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+
+} main{
+    background-color: #FFFFFF;
+    color: #183c63;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+image{
+    width: 80px;
+    height: 80px;
+}
+.artigo-autor {
+    fort-weight: bold;
+}    
